@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(227, 217, 217);
+
+}
+.top{
+    background-color: bisque;
+    
+}
+.list{
+    display: inline-flex;
+    gap: 25px;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.one{
+    cursor: pointer;
+    color: rgb(11, 6, 1);
+    
+    transition: all ease-in-out 0.2s;
+}
+
+
+.logo{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    background-color:rgb(151, 223, 151);
+    color: whitesmoke;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 50px;
+}
+.items{
+    display: inline-block;
+    position: relative;
+    margin-top: 0px;
+}
+.need{
+    text-align: center;
+    margin-top: 0px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.airpod{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in-out 0.4s;
+    background-color: aliceblue;
+}
+.charger{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.pouch{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.earphone{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.powerbank{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.mouse{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.keyboard{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+.watch{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all ease-in 0.4s;
+    background-color: aliceblue;
+}
+
+
+
+
+.items img:hover{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(151, 223, 151);
+    border-radius: 100px;
+}
+.one:hover{
+    width: 100%;
+    font-size: 20px;
+
+}
